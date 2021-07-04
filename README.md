@@ -1,4 +1,4 @@
-#Rubik's Cube
+# Rubik's Cube
 
 
 
@@ -16,6 +16,6 @@ Controls:
 
 -Hold [ Right Mouse Button ] and move the mouse to rotate the cube around
 
-
+-[ Escape ] to close the application
 
 Ilie Dumitru
