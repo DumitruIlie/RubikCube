@@ -8,7 +8,7 @@ Controls:
 
 -[ Left Shift ] + [ R ] to randomize 5 moves of the cube
 
--[ Left Control ] + [ R ] to randomize 5000 moves of the cube
+-[ Left Control ] + [ R ] to randomize 5001 moves of the cube
 
 -[ W : A : S : D] to rotate the cube around
 
